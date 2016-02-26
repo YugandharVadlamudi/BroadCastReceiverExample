@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BroadCastReceiverExample</string>
+    <string name="title_activity_enable_disable">EnableDisable</string>
+    <string name="register_broadcast_receiver">RegisterBroadCast</string>
+    <string name="unregister_broadcast_receiver">UnregisterBroadCast</string>
+</resources>
